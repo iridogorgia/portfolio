@@ -1,0 +1,48 @@
+Emily Rowley
+emilyrowleydesign@gmail.com
+emilyrowleydesign.com
+206-225-6922
+
+I’m a UX designer with extensive experience in creative roles using animation, 2D assets in 3D space, and agile environments who enjoys visual design and the opportunity to do good in the world.
+
+Skills and Tools
+
+Design and Prototyping Programs: Adobe Creative Suite: Photoshop, Animate, XD, Illustrator; Axure RP, Sketch, Omnigraffle, FramerJS, InVision, Proto.io, Balsamiq, Principle
+Design and Prototyping Skills: Paper and rapid prototyping, sketching, wire framing, style guides, user flows, site maps
+Research: Competitive analysis, heuristic evaluations, recruitment surveys, persona creation, user interviews, usability tests, affinity mapping
+Working Knowledge: HTML, CSS, Javascript, Coffeescript, Bootstrap
+
+Experience
+
+Meddle Group, LLC
+Freelance UX Designer 2016-2017
+• 3 week sprint on a team facilitated by General Assembly
+• CEO wanted help with onboarding, tutorial creation and incentive to create thoughful profiles that would lead to a higher rate of user engagement.
+• Lead the creation of an animated tutorial for onboarding
+• Programs and skills used: Adobe Photoshop, Sketch, InVision, whiteboarding, paper sketching
+
+General Assembly Hackathon - First Place
+Project Spitfyre - https://spitfyre.herokuapp.com/
+• 24 hour project turnaround on a team of 4, 2 UX designers and 2 web devs, theme was ‘make someone’s life better’ and only technical requirement was the use of an API (we chose Urban Dictionary)
+• Programs and skills used: Sketch, paper prototyping, persona creation, user flow, HTML5, CSS3, AngularJS
+
+General Assembly
+User Experience Design Immersive 2016-2017
+• Learned a solid foundation of user research, interface design, wire frames, prototyping, interaction design and high-fidelity mockups
+• Worked on five projects with different levels of fidelity and completion
+• Programs and skills learned: Axure RP, Omnigraffle, Adobe XD, Framer, Sketch, paper prototyping, wire frames, basic HTML, CSS and Javascript
+
+FlowPlay INC
+Production Arist 2011-2016
+• Worked on OurWorld, DownWorld, launched VegasWorld and CelebrityWorld
+• Conceptualized, executed and implemented design assets in two week sprints
+• Closely collaborated on a three person team, worked on shared files with constant team input
+• Designed for animation, slot machines and 2D assets set in 3D space
+• Proactively used UX methods to research fashion trends, look at user requests on forums and undercover interview users in game to create several seasonal items that were very popular and wound up becoming some of the highest selling items in-game.
+• Programs and skills used: Adobe Flash/Animate, G Suite, Tortoise SVN subversioning software, paper sketching
+
+Art Institute of Seattle
+BFA of Media Arts and Animation 2006-2009
+• Designed assets and was a tweener for two separate student films
+• Studied sculpture, illustration and graphic design as well
+• Programs and skills learned: Adobe Creative Suite, 3D Studio Max, basic 3D modeling, hand drawn animation, Flash animation, basic website design
